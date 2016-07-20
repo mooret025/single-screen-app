@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Small Space Interior Designs</string>
+    <string name="phone">(555) 555-5555</string>
+    <string name="address">555 Falls Church Ln</string>
+    <string name="city_state">Oakmont, ML 33333</string>
+    <string name="description">Creating design ideas for your small spaces since about a week ago.</string>
+</resources>
